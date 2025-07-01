@@ -1,5 +1,5 @@
 ## Project Aim
-Analyze video game sales data to identify key trends by genre, platform, and release year to support future advertising strategies.
+Analyze video game sales data to identify key trends by genre, platform, release year and region to support future advertising strategies.
 
 ## Tools Used
 - Python
